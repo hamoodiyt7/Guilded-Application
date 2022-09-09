@@ -60,6 +60,8 @@ I'll try my best to show some of my work, and keep in mind, most of these are ne
   </blockquote>
 </details>
 
+Note.. These aren't *all* my projects, just some of my best.
+
 <br>
 
 <h1 align="center">Thanks for taking the time to read thru, and I hope you have a nice day!</h1>
