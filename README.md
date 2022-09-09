@@ -28,7 +28,7 @@
 <p align="center">I've made this repository to showcase my work on Discord<sup>.js</sup>, for the Guilded<sup>.js</sup> Application.</p>
 
 <h2 align="center">Introduction</h2>
-<p align="center">I'm a Javascript Developer, I've worked on Discord<sup>.js</sup> for a about 3 years now, I first started on <a href="https://replit.com">Replit</a>, on the 12<sup>th</sup> version of Discord<sup>.js</sup> I liked it because, well, it calmed me down, yes, debugging excluded.. It was fun, I've always wanted to start a programming career, and I did, I don't earn money, I earned experience, for my future.</p>
+<p align="center">I'm a Javascript Developer, I've worked on Discord<sup>.js</sup> for a about 3 years now, I first started on <a href="https://replit.com">Replit</a>, on the 12<sup>th</sup> version of Discord<sup>.js</sup> I liked it because, well, it calmed me down, yes, debugging excluded.. It was fun, I've always wanted to start a programming career, and I did, I didn't earn money, I earned experience for my future.</p>
 
 <h2 align="center">Some of my work</h2>
 <p align="center">
